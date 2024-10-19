@@ -10,6 +10,7 @@ import static org.junit.Assert.assertEquals;
  * 3. 特殊情况：所有字符相同、包含所有字母、字典序递减等。
  */
 //dev branch
+//PRMergeTest
 public class L2022211934_2_Test {
 
     Solution2 solution = new Solution2();
