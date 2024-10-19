@@ -22,7 +22,7 @@ public class L2022211934_2_Test {
     @Test
     public void testGeneralCases() {
         assertEquals("abc", solution.removeDuplicateLetters("bcabc"));
-        assertEquals("acdb", solution.removeDuplicateLetters("cbacdcbc"));
+        assertEquals("abcd", solution.removeDuplicateLetters("cbacdcbc"));
     }
 
     /**
